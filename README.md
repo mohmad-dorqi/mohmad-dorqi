@@ -23,3 +23,4 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=mohmad-dorqi&icon=5&color=7)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=mohmad-dorqi&label=Profile%20Views&color=9&icon=5&pretty=true)](https://visitcount.itsvg.in)
